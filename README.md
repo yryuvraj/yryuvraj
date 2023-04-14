@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yryuvraj
-- 👀 I’m interested in Python Projects in Machine Learning and Competitve Programming 
+- 👀 I’m interested in Python Projects in Machine Learning.
 - 🌱 I’m currently learning DSA on CPP 
 - 📫 How to reach me - gamail : yrathi66@gmail.com
 
