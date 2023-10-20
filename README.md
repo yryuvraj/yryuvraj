@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yryuvraj
-- 👀 I’m interested in Python Projects in Machine Learning.
-- 🌱 I’m currently learning NLP
+- 👀 Currently working on dumbfill.com
+- 🌱 Programming | Stocks | Sports
 - 📫 How to reach me - Gmail : yrathi66@gmail.com
 
 <!---
