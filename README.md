@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yryuvraj
-- 👀 Currently working on [vaaak.com](https://vaaak.com)
+- 👀 Currently working on Brain Controlled Instructions (BCI Gaming)
 - 🌱 Programming | Stocks | Sports
 - 📫 How to reach me - Gmail : yrathi66@gmail.com
 
