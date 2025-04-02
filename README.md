@@ -3,7 +3,7 @@
 - 🌱 Programming | Stocks | Sports
 - 📫 How to reach me - Gmail : yrathi66@gmail.com
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+https://yuvrajrathi.vercel.app/
 
 <!---
 yryuvraj/yryuvraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
