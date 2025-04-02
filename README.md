@@ -3,7 +3,7 @@
 - 🌱 Programming | Stocks | Sports
 - 📫 How to reach me - Gmail : yrathi66@gmail.com
 
-Blog : yuvrajrathi.vercel.app/
+Blog : https://yuvrajrathi.vercel.app/
 
 <!---
 yryuvraj/yryuvraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
