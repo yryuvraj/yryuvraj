@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yryuvraj
-- 👀 Currently working on Brain Controlled Instructions (BCI Gaming)
+- 👀 Currently working on Agentic AI and Automation in general
 - 🌱 Programming | Stocks | Sports
 - 📫 How to reach me - Gmail : yrathi66@gmail.com
 
